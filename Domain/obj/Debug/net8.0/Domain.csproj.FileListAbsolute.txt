@@ -10,3 +10,16 @@ C:\Users\Stefan\Downloads\BookManagement (2)\Template\Domain\obj\Debug\net8.0\Do
 C:\Users\Stefan\Downloads\BookManagement (2)\Template\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\Stefan\Downloads\BookManagement (2)\Template\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\Stefan\Downloads\BookManagement (2)\Template\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\bin\Debug\net8.0\Domain.dll
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\obj\Debug\net8.0\Domain.dll
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Facultate\An 3\.NET\Test\Tickets\Domain\obj\Debug\net8.0\ref\Domain.dll

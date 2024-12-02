@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tp1ykBqB6i4=",
+  "dgSpecHash": "XuzHjlDsKBM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

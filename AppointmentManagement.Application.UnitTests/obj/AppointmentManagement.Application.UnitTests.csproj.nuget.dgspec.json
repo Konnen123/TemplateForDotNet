@@ -1,36 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\AppointmentManagement.Application.UnitTests\\AppointmentManagement.Application.UnitTests.csproj": {}
+    "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\AppointmentManagement.Application.UnitTests\\AppointmentManagement.Application.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Application\\Application.csproj": {
+    "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Application\\Application.csproj",
+        "projectPath": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Application\\obj\\",
+        "outputPath": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Domain\\Domain.csproj"
+              "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Domain\\Domain.csproj"
               }
             }
           }
@@ -43,12 +46,13 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -56,11 +60,11 @@
             },
             "FluentValidation": {
               "target": "Package",
-              "version": "[11.10.0, )"
+              "version": "[11.11.0, )"
             },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
-              "version": "[11.10.0, )"
+              "version": "[11.11.0, )"
             },
             "MediatR": {
               "target": "Package",
@@ -83,40 +87,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\AppointmentManagement.Application.UnitTests\\AppointmentManagement.Application.UnitTests.csproj": {
+    "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\AppointmentManagement.Application.UnitTests\\AppointmentManagement.Application.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\AppointmentManagement.Application.UnitTests\\AppointmentManagement.Application.UnitTests.csproj",
+        "projectUniqueName": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\AppointmentManagement.Application.UnitTests\\AppointmentManagement.Application.UnitTests.csproj",
         "projectName": "AppointmentManagement.Application.UnitTests",
-        "projectPath": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\AppointmentManagement.Application.UnitTests\\AppointmentManagement.Application.UnitTests.csproj",
+        "projectPath": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\AppointmentManagement.Application.UnitTests\\AppointmentManagement.Application.UnitTests.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\AppointmentManagement.Application.UnitTests\\obj\\",
+        "outputPath": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\AppointmentManagement.Application.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Application\\Application.csproj"
+              "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Application\\Application.csproj": {
+                "projectPath": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Application\\Application.csproj"
               },
-              "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Domain\\Domain.csproj"
+              "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Domain\\Domain.csproj"
               }
             }
           }
@@ -129,36 +136,41 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "FluentAssertions": {
               "target": "Package",
-              "version": "[6.12.1, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.8.0, )"
+              "version": "[17.12.0, )"
             },
             "NSubstitute": {
               "target": "Package",
-              "version": "[5.1.0, )"
+              "version": "[5.3.0, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.2, )"
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[2.9.2, )"
             },
             "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[2.8.2, )"
             }
           },
           "imports": [
@@ -177,34 +189,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Domain\\Domain.csproj": {
+    "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stefan\\Downloads\\BookManagement (2)\\Template\\Domain\\obj\\",
+        "outputPath": "E:\\Facultate\\An 3\\.NET\\Test\\Tickets\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -216,12 +231,13 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "MediatR": {
               "target": "Package",
@@ -244,7 +260,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
